@@ -1,0 +1,26 @@
+.first{
+   
+    align-items: center;
+    text-align: center;
+}
+
+.first img{
+    height: 250px;
+    width: 250px;
+}
+.second{
+   
+    align-items: center;
+    text-align: center; 
+    display: flex;
+    flex-direction: column;
+}
+.second img{
+    height: 250px;
+    width: 250px;
+}
+.total{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 230px;
+}
